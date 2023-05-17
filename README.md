@@ -1,7 +1,9 @@
 ## Run the app
 
 ```
-make up
+cp .env.example .env
+
+make up logs
 ```
 
 ## Run test
